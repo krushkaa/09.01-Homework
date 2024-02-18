@@ -19,6 +19,5 @@ public class Task1 {
         for (int i = arrLength - 1; i >= 0; i--) {
             System.out.print(arr[i] + " ");
         }
-
     }
 }
